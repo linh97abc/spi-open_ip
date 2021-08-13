@@ -1,3 +1,5 @@
+#Copyright <linh97abc@gmail.com>
+
 TEST_MODULE=tb_spi_top
 
 COV_REPORT=cov_report
