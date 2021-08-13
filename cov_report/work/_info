@@ -1,0 +1,157 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/linh9/Documents/source/spi/cov_report
+T_opt
+!s110 1628695014
+VEXY5^gK0zXn6en[8kS?^20
+04 10 4 work tb_spi_top fast 0
+=1-9840bb12a28c-6113e9e5-267-c68
+o-quiet -auto_acc_if_foreign -work work
+Z1 tCvgOpt 0
+n@_opt
+OL;O;10.5;63
+vspi_clgen
+Z2 !s110 1628695010
+!i10b 1
+!s100 SFJJeL3A>O34Z<bSma?n<3
+IFA^bj;3EG3AQ47zK98eG80
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1057253535
+8../rtl/verilog/spi_clgen.v
+F../rtl/verilog/spi_clgen.v
+Z4 L0 44
+Z5 OL;L;10.5;63
+r1
+!s85 0
+31
+Z6 !s108 1628695010.000000
+Z7 !s107 ../rtl/verilog/timescale.v|../rtl/verilog/spi_defines.v|../bench/verilog/spi_slave_model.v|../bench/verilog/wb_master_model.v|../bench/verilog/tb_spi_top.v|../rtl/verilog/spi_shift.v|../rtl/verilog/spi_clgen.v|../rtl/verilog/spi_top.v|
+Z8 !s90 -coveropt|3|+cover|+acc|../rtl/verilog/spi_top.v|../rtl/verilog/spi_clgen.v|../rtl/verilog/spi_shift.v|../bench/verilog/tb_spi_top.v|../bench/verilog/wb_master_model.v|../bench/verilog/spi_slave_model.v|+incdir+../rtl/verilog|
+!i113 0
+Z9 !s102 -coveropt 3 +cover
+Z10 o-coveropt 3 +cover +acc -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z11 !s92 -coveropt 3 +cover +acc +incdir+../rtl/verilog -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R1
+vspi_shift
+R2
+!i10b 1
+!s100 [Fk0k]Z9CV@8HWBmnlJRS3
+I?84iF`2ho2@eFz2MQ9=aO0
+R3
+R0
+Z12 w1057678597
+8../rtl/verilog/spi_shift.v
+F../rtl/verilog/spi_shift.v
+R4
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 0
+R9
+R10
+R11
+R1
+vspi_slave_model
+R2
+!i10b 1
+!s100 cDPPX9a94_3UD[V3Jn;WT3
+I;IWDgA[LBL1Aa0;@3Y8I50
+R3
+R0
+w1048694416
+8../bench/verilog/spi_slave_model.v
+F../bench/verilog/spi_slave_model.v
+L0 43
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 0
+R9
+R10
+R11
+R1
+vspi_top
+R2
+!i10b 1
+!s100 `3G4mZYdQmh]X49OlVUzP1
+Io[BY@7EWNLI2@Zlz7Vk7=0
+R3
+R0
+R12
+8../rtl/verilog/spi_top.v
+F../rtl/verilog/spi_top.v
+L0 45
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 0
+R9
+R10
+R11
+R1
+vtb_spi_top
+R2
+!i10b 1
+!s100 9CKBASFC6=P6hQ7XiPko_1
+IkP3<=P1KF2APk@cYFV><a3
+R3
+R0
+w1079372769
+8../bench/verilog/tb_spi_top.v
+F../bench/verilog/tb_spi_top.v
+Z13 L0 47
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 0
+R9
+R10
+R11
+R1
+vwb_master_model
+R2
+!i10b 1
+!s100 3:<F8Ja0BYLGI8b@?Rim51
+INQ;Hef40IUiS^MHBD0Fjb0
+R3
+R0
+w1023896736
+8../bench/verilog/wb_master_model.v
+F../bench/verilog/wb_master_model.v
+R13
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 0
+R9
+R10
+R11
+R1
