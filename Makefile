@@ -1,4 +1,4 @@
-#Copyright <linh97abc@gmail.com>
+#Copyright 2021 Linh Bui Tuan <linh97abc@gmail.com>
 
 TEST_MODULE=tb_spi_top
 
