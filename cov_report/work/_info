@@ -9,16 +9,16 @@ z2
 cModel Technology
 Z0 dC:/Users/linh9/Documents/source/spi/cov_report
 T_opt
-!s110 1628695014
-VEXY5^gK0zXn6en[8kS?^20
+!s110 1629175029
+V[`f=GCD]mkk<I0mzAaSM:1
 04 10 4 work tb_spi_top fast 0
-=1-9840bb12a28c-6113e9e5-267-c68
+=1-9840bb12a28c-611b3cf4-fe-aac
 o-quiet -auto_acc_if_foreign -work work
 Z1 tCvgOpt 0
 n@_opt
 OL;O;10.5;63
 vspi_clgen
-Z2 !s110 1628695010
+Z2 !s110 1629175025
 !i10b 1
 !s100 SFJJeL3A>O34Z<bSma?n<3
 IFA^bj;3EG3AQ47zK98eG80
@@ -32,7 +32,7 @@ Z5 OL;L;10.5;63
 r1
 !s85 0
 31
-Z6 !s108 1628695010.000000
+Z6 !s108 1629175025.000000
 Z7 !s107 ../rtl/verilog/timescale.v|../rtl/verilog/spi_defines.v|../bench/verilog/spi_slave_model.v|../bench/verilog/wb_master_model.v|../bench/verilog/tb_spi_top.v|../rtl/verilog/spi_shift.v|../rtl/verilog/spi_clgen.v|../rtl/verilog/spi_top.v|
 Z8 !s90 -coveropt|3|+cover|+acc|../rtl/verilog/spi_top.v|../rtl/verilog/spi_clgen.v|../rtl/verilog/spi_shift.v|../bench/verilog/tb_spi_top.v|../bench/verilog/wb_master_model.v|../bench/verilog/spi_slave_model.v|+incdir+../rtl/verilog|
 !i113 0

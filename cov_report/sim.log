@@ -1,5 +1,5 @@
 # vsim -coverage -vopt work.tb_spi_top -c -do "coverage save -onexit -directive -codeAll cov_report.ucdb;run -all;quit" -l sim.log 
-# Start time: 22:16:52 on Aug 11,2021
+# Start time: 11:37:07 on Aug 17,2021
 # ** Note: (vsim-3812) Design is being optimized...
 # //  ModelSim SE-64 10.5 Feb 13 2016 
 # //
@@ -56,5 +56,5 @@
 # Stopped at ../bench/verilog/tb_spi_top.v line 334
 # quit
 # Saving coverage database on exit...
-# End time: 22:16:59 on Aug 11,2021, Elapsed time: 0:00:07
+# End time: 11:37:14 on Aug 17,2021, Elapsed time: 0:00:07
 # Errors: 0, Warnings: 0
